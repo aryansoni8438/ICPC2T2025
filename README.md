@@ -9,3 +9,4 @@ Achieved high accuracy in seasonal trend detection and short-term load predictio
 Addressed region-specific consumption patterns using real-time data from Chhattisgarh state.
 Results presented at ICPC2T 2025, and the paper is published on IEEE Xplore.
 
+![ICPC2T Certificate](Certificate_ICPC2T2025.jpg)
